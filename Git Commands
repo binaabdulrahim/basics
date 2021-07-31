@@ -1,0 +1,5 @@
+Here are some basic git cmds that you can run on VCS terminal to push your repo to Github account
+git status --> what changes have been staged, which haven't, and which files are being tracked by Github
+git add .  ---> this to add any untracked files 
+git commit -m "<commit_message>" --> snapshot of your repo meaning creating a commit
+git push ---> used to upload repo content to github
