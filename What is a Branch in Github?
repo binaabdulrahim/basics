@@ -1,0 +1,4 @@
+Branch allows you to create your own stream of work. 
+Create a separate branch to develop a feature (or work on a bug) without distrubing the master branch. 
+If it works out, you can merge it back into the master, if it doesn't you can trash it. 
+Look at "tree" folder to see some examples. 
