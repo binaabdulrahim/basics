@@ -1,0 +1,10 @@
+Merge:
+add new features to the existing "feature" or Master
+allows to present to history
+very good for releases
+
+Rebase:
+add new features to the end
+reduce the number of commits you can show
+
+*** the only time you will be merging branches in pull request 
